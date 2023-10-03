@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+#inventory {
+    margin-bottom: 20px;
+}
+
+#inventoryTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#inventoryTable th,
+#inventoryTable td {
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+#addForm {
+    width: 300px;
+    margin: 0 auto;
+}
+
+#addForm input,
+#addForm button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#addForm button {
+    padding: 5px 10px;
+}

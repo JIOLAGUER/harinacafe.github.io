@@ -1,0 +1,38 @@
+
+/* menu start */
+#menu{
+    width: 100%;
+    margin-top: 60px;
+}
+.heading3{
+    text-align: center;
+    font-size: 30px;
+    color: #563829;
+    font-weight: bold;
+    border-bottom: 2px solid #563829;
+}
+#container2{
+    margin-top: 50px;
+}
+#menu .card{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.star i{
+    color: #563829;
+}
+#menu h3{
+    text-align: center;
+    color: #563829;
+    margin-top: 10px;
+    font-size: 25px;
+}
+#menu p{
+    font-size: 16px;
+    color: #563829;
+    padding-top: 10px;
+}
+#menu p span{
+    float: right;
+    cursor: pointer;
+}
+/* menu end */
